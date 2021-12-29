@@ -82,7 +82,7 @@ progress::-webkit-progress-value {
   line-height: 1;
   display: flex;
   align-items: center;
-  font-family: 'Londrina Sketch', cursive;
+  font-family: monospace;
   color: white;
   -webkit-text-stroke-width: 6px;
   -webkit-text-stroke-color: black;
